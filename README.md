@@ -1,4 +1,3 @@
-# Ajaykumarparihar-Remote-Server-Management-API
 # Remote Server Management API
 
 A FastAPI-based REST API for managing remote Linux servers, executing commands, and monitoring activities.
